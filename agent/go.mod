@@ -20,7 +20,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/tidwall/gjson v1.17.0
 	golang.org/x/time v0.3.0
-	google.golang.org/protobuf v1.34.2
+	google.golang.org/protobuf v1.36.7
 	kernel.org/pub/linux/libs/security/libcap/cap v1.2.69
 )
 
