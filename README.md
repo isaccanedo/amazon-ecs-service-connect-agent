@@ -1,4 +1,4 @@
-# Amazon ECS Service Connect Agent
+## Amazon ECS Service Connect Agent
 
 ![Amazon ECS logo](doc/ecs.png "Amazon AWS ECS")
 
